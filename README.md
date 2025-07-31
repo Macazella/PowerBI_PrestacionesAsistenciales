@@ -1,6 +1,3 @@
-Aquí tenés el contenido completo para tu `README.md`, con formato markdown compatible con GitHub y sin referencias específicas a ninguna empresa. Incluye todos los componentes vistos en tus capturas, el informe ejecutivo integrado y una licencia MIT al final:
-
-```markdown
 # 📊 Power BI – Dashboard de Análisis de Prestaciones Asistenciales
 
 Este repositorio contiene un informe interactivo desarrollado en Power BI, orientado al análisis de prestaciones de servicios de salud brindadas en diferentes establecimientos a nivel nacional.  
@@ -158,8 +155,3 @@ Este repositorio se publica bajo la licencia MIT.
 Ver archivo [LICENSE](./LICENSE) para más detalles.
 
 ---
-
-```
-
-¿Deseás que lo convierta en archivo `.md` listo para subir o que genere también el archivo de licencia MIT (`LICENSE`)?
-```
